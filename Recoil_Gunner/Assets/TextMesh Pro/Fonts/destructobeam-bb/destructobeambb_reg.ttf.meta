@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e70a8a332bd68a14084e59a2a26f58dd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DestructoBeam BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 50e8325af3b3e9242941d9bed43f5304, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
